@@ -7729,7 +7729,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -7881,7 +7881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController_2022
   moveSpeed: 6
-  jumpForce: 10
+  jumpForce: 8
   wallCheckDistance: 1.7
   wallSlideSpeed: 2
   wallLayer:
